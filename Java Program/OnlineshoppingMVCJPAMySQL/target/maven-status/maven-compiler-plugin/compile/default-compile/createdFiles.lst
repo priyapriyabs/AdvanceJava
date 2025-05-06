@@ -1,0 +1,8 @@
+com\priyanka\config\JPAConfig.class
+com\priyanka\config\webconfig.class
+com\priyanka\repo\UserRepository.class
+com\priyanka\service\UserService.class
+com\priyanka\config\FrontController.class
+com\priyanka\controller\UserController.class
+com\priyanka\service\UserServiceImpl.class
+com\priyanka\entity\User.class

@@ -1,0 +1,14 @@
+com\priyanka\controller\SignInController.class
+com\priyanka\util\GenerateRandomPassword.class
+com\priyanka\configure\FrontControllerConfig.class
+com\priyanka\configure\JPAConfig.class
+com\priyanka\service\SignUpService.class
+com\priyanka\util\generateRandomOTP.class
+com\priyanka\controller\ForgetPasswordController.class
+com\priyanka\controller\ResetPasswordController.class
+com\priyanka\controller\SignUpController.class
+com\priyanka\configure\WebConfig.class
+com\priyanka\repository\SignUpRepository.class
+com\priyanka\configure\EmailConfiguration.class
+com\priyanka\dto\SignUpDTO.class
+com\priyanka\service\SignUpServiceImpl.class

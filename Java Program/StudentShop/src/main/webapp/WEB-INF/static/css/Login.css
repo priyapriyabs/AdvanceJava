@@ -1,0 +1,20 @@
+body {
+
+	background: black;
+	color: white;
+}
+.reg_form{
+	position: relative;
+	left: 33%;	
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+#form_allig{
+	position: absolute;
+	top: 15%;
+	
+}

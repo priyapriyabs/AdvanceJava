@@ -1,0 +1,18 @@
+ENUM:
+enum is a type of class not diclairing data types.
+and we can access value of enum through constructors.
+
+Static Keywords:
+1.Non-accses modifiers
+2.variables
+3.method
+4.blocks
+5.one copy(common copy)
+ex laptop with brand called HP,DELL ect..
+
+non static method canot be call static reference
+
+
+println:
+system.java doc(check in online)
+
